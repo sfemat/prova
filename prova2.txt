@@ -1,2 +1,2 @@
 Una riga di testo.
-Un'altra riga di testo. 
+Un'altra riga di testo. d
